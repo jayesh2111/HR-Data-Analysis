@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This HR analytics project provides deep insights into workforce attrition, employee demographics, job satisfaction, and department-level analysis. The interactive dashboard is built to support data-driven HR decisions, enabling organizations to improve retention, workforce planning, and employee engagement.
+This HR analytics project provides deep insights into workforce attrition, employee demographics, job satisfaction, and department-level analysis. The interactive Tableau dashboard is built to support data-driven HR decisions, enabling organizations to improve retention, workforce planning, and employee engagement.
 
 ---
 
@@ -17,8 +17,8 @@ This HR analytics project provides deep insights into workforce attrition, emplo
 
 ## 🛠️ Tools Used
 
-- **Power BI / Tableau** – For dashboard development
+- **Tableau** – For dashboard development
 - **HR Dataset** – Contains employee demographics, education, department, satisfaction, and attrition flags
-- **Excel/CSV** – Data preprocessing and cleaning
+- **Excel** – Data preprocessing and cleaning
 
 ---
